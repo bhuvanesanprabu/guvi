@@ -5,7 +5,7 @@ for i in a:
   c=a.count(i)
 for i in b:
   d=b.count(i)
-if((a==c)and(b==d)):
+if(c==d):
   print("yes")
 else:
   print("no")
