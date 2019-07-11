@@ -7,5 +7,5 @@ for i in range(0,a):
     c.append(b)
 
 aa = collections.Counter(c).most_common(1)[0]
-print(aa[0])
+print(aa[1])
 
