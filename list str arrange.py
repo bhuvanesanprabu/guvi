@@ -3,6 +3,7 @@ a=input().split()
 c=[]
 for i in a:
     c.append(i)
+c.sort()
 c.sort(key=len)
 
 for i in c:
