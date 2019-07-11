@@ -1,2 +1,3 @@
+import re
 a=input()
-print(a.replace('  ',' '))
+print(re.sub(' +', ' ',a))
