@@ -4,7 +4,7 @@ c=0
 v=0
 for i in a:
     if(i in b):
-        print("Vowels")
+        print("Vowel")
         c=c+1
         break
 if(c==0):
