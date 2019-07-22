@@ -10,6 +10,6 @@ def red( a, b) :
         return p2
 
 
-n, k = input().split()
-n, k = int(n), int(k)
-print(red(n, k)
+a, b = input().split()
+a, b = int(a), int(b)
+print(red(a, b))
