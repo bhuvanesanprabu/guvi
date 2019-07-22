@@ -1,2 +1,2 @@
-a=int(input())
-print(a)
+zz=int(input())
+print(zz)
