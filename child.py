@@ -1,5 +1,5 @@
 s=int(input())
-s=size
+size=s
 arr=input().rstrip()
 arr=list(map(int,arr.split(" ")))
 final=[1]*size
